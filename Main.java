@@ -6,6 +6,7 @@ public class Main
     {
         System.out.println("Revision 1 in master");
         System.out.println("first commit");
+        System.out.println("second commit");
 
     }
 
