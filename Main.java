@@ -5,6 +5,7 @@ public class Main
     public void methodInMaster()
     {
         System.out.println("Revision 1 in master");
+        System.out.println("first commit");
 
     }
 
